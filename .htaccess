@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} !(\.sql|\.css|\.js|\.php|\.png|\.jpg|\.gif|robots\.txt)$ [NC] 
+
+#Please change following RewriteBase directory path. ex: /framework/easyphp/ 
+
+
+#RewriteCond %{HTTPS} !=on
+
+#RewriteRule ^(.*) https://%{SERVER_NAME}/webthitracnghiem/$1 [R,L]
+
+#RewriteBase /webthitracnghiem/
+
+RewriteRule ^(.*)$ index.php?params=$1 [L,QSA]
+
+
+</IfModule>

@@ -1,0 +1,30 @@
+[16/Dec/2016:06:44:41] (index) User Login - Insert Session
+[16/Dec/2016:07:13:50] (index) Logout - Delete Session
+[16/Dec/2016:07:13:59] (index) User Login - Insert Session
+[16/Dec/2016:08:06:08] (index) User Login - Insert Session
+[16/Dec/2016:08:29:30] (index) Logout - Delete Session
+[16/Dec/2016:08:32:49] (index) User Login - Insert Session
+[16/Dec/2016:08:39:12] (index) Logout - Delete Session
+[16/Dec/2016:08:41:42] (index) User Login - Insert Session
+[16/Dec/2016:08:42:35] (index) Logout - Delete Session
+[16/Dec/2016:08:43:09] (index) User Login - Insert Session
+[16/Dec/2016:08:43:38] (index) Logout - Delete Session
+[16/Dec/2016:08:43:48] (index) User Login - Insert Session
+[16/Dec/2016:08:45:30] (index) Logout - Delete Session
+[16/Dec/2016:08:45:51] (index) User Login - Insert Session
+[16/Dec/2016:08:46:09] (index) Logout - Delete Session
+[16/Dec/2016:08:46:30] (index) User Login - Insert Session
+[16/Dec/2016:08:46:34] (index) Logout - Delete Session
+[16/Dec/2016:08:46:48] (index) User Login - Insert Session
+[16/Dec/2016:08:48:30] (index) Logout - Delete Session
+[16/Dec/2016:08:48:58] (index) User Login - Insert Session
+[16/Dec/2016:08:49:00] (index) Logout - Delete Session
+[16/Dec/2016:08:49:10] (index) User Login - Insert Session
+[16/Dec/2016:08:49:55] (index) Logout - Delete Session
+[16/Dec/2016:08:50:11] (index) User Login - Insert Session
+[16/Dec/2016:08:51:17] (index) Logout - Delete Session
+[16/Dec/2016:08:51:41] (index) User Login - Insert Session
+[16/Dec/2016:08:51:44] (index) Logout - Delete Session
+[16/Dec/2016:08:51:53] (index) User Login - Insert Session
+[16/Dec/2016:08:51:56] (index) Logout - Delete Session
+[16/Dec/2016:09:24:55] (index) User Login - Insert Session
